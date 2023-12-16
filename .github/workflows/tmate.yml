@@ -6,6 +6,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: ECHO
-      run: echo hello hi hey ho
+      run: echo hello hi hey ho work
     - name: Setup tmate session
       uses: mxschmitt/action-tmate@v3
